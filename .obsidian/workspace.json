@@ -8,11 +8,16 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f226580697d946e9",
+            "id": "44ff086ee88ca17f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0. 周期笔记/2024/Daily/02/2024-02-18.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -60,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#工作/one-one",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -92,7 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 397.5024719238281
+    "width": 416.5
   },
   "right": {
     "id": "e909704c2c67d329",
@@ -108,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "主页.canvas",
+                "file": "0. 周期笔记/2024/Daily/02/2024-02-18.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "主页.canvas"
+                "file": "0. 周期笔记/2024/Daily/02/2024-02-18.md"
               }
             }
           },
@@ -130,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "主页.canvas",
+                "file": "0. 周期笔记/2024/Daily/02/2024-02-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,56 +179,57 @@
       "fuzzy-chinese-pinyin:FuzzySearch": false
     }
   },
-  "active": "f226580697d946e9",
+  "active": "44ff086ee88ca17f",
   "lastOpenFiles": [
-    "任务.md",
-    "5. 表达/博客/一种实用新型 Obsidian 实践之构建我的第二大脑 🧠.md",
-    "4. 存档/育儿-宝宝起名/五行/火.md",
-    "3. 资源/Template.md",
-    "3. 资源/知识管理/知识管理.README.md",
-    "3. 资源/摄影摄像/摄影摄像.README.md",
-    "2. 领域/Template.md",
-    "2. 领域/README.md",
-    "2. 领域/育儿/育儿.README.md",
-    "2. 领域/同事工作/工作.README.md",
-    "2. 领域/个人品牌/个人品牌.README.md",
-    "2. 领域/夫妻关系/夫妻关系.README.md",
     "0. 周期笔记/Templates/Daily.md",
     "0. 周期笔记/2024/Daily/02/2024-02-18.md",
-    "0. 周期笔记/Templates/Monthly.md",
+    "任务.md",
+    "5. 表达/README.md",
+    "更更更.md",
+    "0. 周期笔记/Templates/Weekly.md",
+    "5. 表达/博客/一种实用新型 Obsidian 实践之构建我的第二大脑 🧠.md",
+    "1. 项目/Template-New.md",
+    "2. 领域/父母关系/父母关系.README.md",
+    "2. 领域/Template-Arc.md",
+    "1. 项目/云原生训练营/学习记录/存在的问题.md",
+    "3. 资源/Template.md",
+    "4. 存档/Template.md",
+    "README.md",
+    "未命名.canvas",
+    "6. 读书笔记/README.md",
+    "6. 读书笔记/2024 新年建议 - 陈思远.md",
+    "6. 读书笔记/不理解超线性回报，就无法理解这个世界.md",
+    "6. 读书笔记/高盛的 2024 宏观经济预测.md",
+    "1. 项目/樂人無術/樂人無術.README.md",
+    "1. 项目/云原生训练营/架构图/Polyrepo.svg",
+    "1. 项目/云原生训练营/架构图/Monorepo.svg",
+    "1. 项目/云原生训练营/学习记录/衍生研究.md",
+    "1. 项目/云原生训练营/学习记录/注意事项.md",
+    "1. 项目/云原生训练营/学习记录/虚拟化操作注意事项.md",
+    "1. 项目/云原生训练营/学习记录/系统可能的问题.md",
+    "3. 资源/知识管理/知识管理.README.md",
+    "3. 资源/README.md",
+    "4. 存档/README.md",
+    "主页.canvas",
+    "育儿-宝宝起名/林奕如.png",
+    "育儿-宝宝起名/baby-name.png",
+    "1. 项目/云原生训练营/Attachments/组件测试",
+    "1. 项目/云原生训练营/Attachments/PPT 素材/group-team-collective.svg",
+    "1. 项目/云原生训练营/路径",
+    "1. 项目/个人品牌-WOT-分享会/演讲嘉宾资料包/~$WOT2023 演讲嘉宾PPT模板.pptx",
     "0. 周期笔记/2024/Daily/02",
-    "1. 项目/README.md",
-    "1. 项目/Template.md",
     "0. 周期笔记/2024/Daily",
     "0. 周期笔记/2024",
-    "主页.canvas",
-    "0. 周期笔记/2024/2024.md",
-    "0. 周期笔记/2024/Quarterly/2024-Q1.md",
-    "0. 周期笔记/2024/Monthly/2024-02.md",
     "0. 周期笔记/2024/Quarterly",
-    "0. 周期笔记/2024/Weekly/2024-W07.md",
     "0. 周期笔记/2024/Monthly",
     "0. 周期笔记/2024/Weekly",
-    "0. 周期笔记/Templates/Quarterly.md",
-    "0. 周期笔记/2024/Daily/02/2024-02-16.md",
-    "1. 项目/育儿-筹办周岁宴/育儿-筹办周岁宴.README.md",
-    "4. 存档/育儿-宝宝起名/五行/土.md",
-    "4. 存档/育儿-宝宝起名/五行/水.md",
-    "4. 存档/育儿-宝宝起名/林奕如.png",
-    "4. 存档/育儿-宝宝起名/baby-name.png",
     "0. 周期笔记/2022/Quarterly",
-    "0. 周期笔记/2022",
-    "1. 项目/photography",
-    "pbcopy",
     "HOME.canvas",
-    "1. 项目/个人品牌-WOT-分享会/架构图/Polyrepo.svg",
-    "1. 项目/个人品牌-WOT-分享会/架构图/Monorepo.svg",
-    "1. 项目/个人品牌-WOT-分享会/Attachments/PPT 素材/warning.svg",
-    "1. 项目/个人品牌-WOT-分享会/Attachments/PPT 素材/warning.png",
-    "1. 项目/个人品牌-WOT-分享会/Attachments/PPT 素材/rollup-logo.svg",
-    "1. 项目/个人品牌-WOT-分享会/Attachments/PPT 素材/repo-hero-logo-light.svg",
-    "1. 项目/个人品牌-WOT-分享会/Attachments/PPT 素材/monitor.svg",
-    "1. 项目/个人品牌-WOT-分享会/Attachments/PPT 素材/monitor.png",
+    "1. 项目/云原生训练营/Attachments/PPT 素材/warning.svg",
+    "1. 项目/云原生训练营/Attachments/PPT 素材/warning.png",
+    "1. 项目/云原生训练营/Attachments/PPT 素材/rollup-logo.svg",
+    "1. 项目/云原生训练营/Attachments/PPT 素材/repo-hero-logo-light.svg",
+    "1. 项目/云原生训练营/Attachments/PPT 素材/monitor.svg",
     "Templates/HOME.canvas",
     "hello/HOME.canvas",
     "hello/Templates/HOME.canvas"
