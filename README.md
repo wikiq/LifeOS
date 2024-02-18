@@ -19,25 +19,8 @@
 
 ## 寻求支持
 
-### 用户群
-
-- [👥飞书](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=704oa7b2-2a6b-4861-b07f-afeb9d971a23)
-- [🎮Discord](https://discord.gg/HZGanKEkuZ)
-
 ### 联系作者
 
 - [📕 小红书](https://www.xiaohongshu.com/user/profile/5b06db60f7e8b974ec6ff7fc)
-- [🐦Twitter](https://twitter.com/quanruzhuoxiu)
-- [📧Email](mailto:quanruzhuoxiu@gmail.com)
-
----
-
-<a href="https://www.buymeacoffee.com/leyang"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=leyang&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
-
----
-
-<img alt="Alipay" src="https://quanru.github.io/img/alipay-qr.jpg" width="200"/>
-
----
-
-<img alt="WeChatPay" src="https://quanru.github.io/img/wechat-qr.jpg" width="200"/>
+- [🐦Twitter](https://twitter.com/qwstdx)
+- [📧Email](mailto:qiws@msn.com)
