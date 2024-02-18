@@ -17,9 +17,9 @@
 
 ## 作者仓库
 
-- [quanru]  (https://github.com/quanru)
+- [quanru](https://github.com/quanru)
 
-- [obsidian-example-LifeOS] (https://github.com/quanru/obsidian-example-LifeOS)
+- [obsidian-example-LifeOS](https://github.com/quanru/obsidian-example-LifeOS)
 
 ### 联系当前仓库作者
 
